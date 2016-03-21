@@ -16,7 +16,7 @@ This lab is just about practicing the lab workflow on Learn using the `learn` CL
 
 ![Open](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_open_highlight.png)
 
-After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container. 
+After you click on this, a new tab should open with your Nitrous container. At the same time, behind the scenes we are forking the lab and cloning it to your container.
 
 **If you do not see an "open" link on the toolbar, this might mean that your Nitrous container wasn't properly set up. Please use the Ask a Question tool in Learn and we'll help you out!**
 
@@ -30,7 +30,7 @@ This setup—your console open in the lab's directory and the lab directory open
 
 3. In the console, run the test suite by typing `learn` and hitting enter. You'll see something simlar to:
 
-![lab-fail](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
+![lab-fail](https://curriculum-content.ys3.amazonaws.com/learn-ver/nitrous_lab_fail.png)
 
 You can see your test is currently failing, which is fine, we haven't done any work yet, so it makes sense.
 
@@ -48,6 +48,6 @@ You can also pass this lab by creating a new file. From your console, you can ru
 
 ![learn-submit](https://curriculum-content.s3.amazonaws.com/learn-ver/nitrous_learn_submit.png)
 
-You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab.
 
 <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
